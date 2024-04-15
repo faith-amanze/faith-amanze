@@ -1,8 +1,5 @@
-### Hi there 👋
-
-<!--
+<!--### Hi there 👋
 I am Faith Amanze, a UI/UX Developer and Technical Support Engineer
-
 - 🔭 I’m currently working on Cloud Computing, Product Development.
 - 🌱 I’m currently learning Frontend Development, and looking to learn  DevOps in the nearest future.
 - 👯 I’m looking to collaborate on open source project, design and developement of digital products, IT Support.
