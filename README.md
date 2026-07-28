@@ -1,12 +1,17 @@
-### Hi there 👋
-I am Faith Amanze, a Cloud Infrastructure/Security Engineer and Machine Learning Engineer
-<!--
-- 🔭 I’m currently working on Cloud Computing, Product Development.
-- 🌱 I’m currently Interning at FlyRank AI
-- 👯 I’m looking to collaborate on open source project, Cloud Infrastures, IT Support and AI/ML.
-- 🤔 I’m looking for help with digital Product development, DevOps and Cloud Computing
-- 💬 Ask me about Product Design, Web Developement, Cloud Computing
-- 📫 How to reach me: Connect with me on linkedin:www.linkedin.com/in/faith-amanze, behance: www.behance.net/faith_amanze
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a voracious learner, I love music , studying, travelling and writing.
--->
+### Hi, I'm Faith 👋
+
+Cloud Security Engineer transitioning into Machine Learning Engineering.
+
+I spend my days investigating security incidents across Microsoft 365 
+(Defender, Purview, Entra ID) and my nights building ML models that turn 
+messy data into decisions worth acting on.
+
+**Currently:** ML Engineering Intern @ FlyRank AI, applying Python, 
+scikit-learn and embedding-based clustering to real search/analytics data.
+
+**Featured project:** [Content Refresh Prioritization](https://faith-amanze.github.io/content-refresh-prioritization/) — ranked 
+30,000 SEO pages across 32 client accounts; logistic regression hit 
+74.0% Precision@50 vs. a 48.0% baseline, using a client-grouped holdout 
+split to avoid leakage.
+
+📫 faith.amanze@gmail.com | [LinkedIn](linkedin.com/in/faith-amanze)
