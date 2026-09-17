@@ -1,6 +1,6 @@
 ### Hi, I'm Faith 👋
 
-Cloud Security Associate | Artifical Intelligence/Machine Learning Engineer Intern @flyrank AI.
+Cloud Security Engineer | Artifical Intelligence/Machine Learning Engineer Intern @flyrank AI.
 
 I spend my days investigating security incidents across Microsoft 365 
 (Defender, Purview, Entra ID) and my nights building ML models that turn 
