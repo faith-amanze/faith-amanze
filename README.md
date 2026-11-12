@@ -30,5 +30,4 @@ Built a machine learning solution to prioritize content updates across 30,000 SE
 
 ### Connect
 
-📧 faith.amanze@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/faith-amanze/)
